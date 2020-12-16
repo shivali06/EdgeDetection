@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2136040342/Covid_ID.iml" filepath="$PROJECT_DIR$/.idea/modules/2136040342/Covid_ID.iml" group="Covid_ID" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="Covid_ID/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1574135035/java.iml" filepath="$PROJECT_DIR$/.idea/modules/1574135035/java.iml" group="Covid_ID/java" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2082553681/openCVLibrary345.iml" filepath="$PROJECT_DIR$/.idea/modules/-2082553681/openCVLibrary345.iml" group="Covid_ID/openCVLibrary345" />
+    </modules>
+  </component>
+</project>

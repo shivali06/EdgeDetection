@@ -1,0 +1,5 @@
+include ':app'
+rootProject.name='Covid_ID'
+
+include ':java'
+include ':openCVLibrary345'
